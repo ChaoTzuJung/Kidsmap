@@ -1,13 +1,33 @@
 import { Navigation } from 'react-native-navigation';
-import Login from './src/Login';
-import Home from './src/Home';
-import AddPost from './src/Admin/AddPost';
+import { Provider } from 'react-redux';
+import configureStore from './src/components/Store/configureStore';
+import Login from './src/components/screens/Login';
+import Home from './src/components/screens/Home';
+import AddPost from './src/components/screens/Admin/AddPost';
 
 import { StyleSheet, Text, View } from 'react-native';
 
-Navigation.registerComponent("Kidsmap.Login", () => Login)
-Navigation.registerComponent("Kidsmap.Home", () => Home)
-Navigation.registerComponent("Kidsmap.Post", () => Post)
+const store = configureStore()
+
+Navigation.registerComponent(
+  "Kidsmap.Login",
+  () => Login,
+  store,
+  Provider
+);
+
+Navigation.registerComponent(
+  "Kidsmap.Home",
+  () => Home,
+  store,
+  Provider
+)
+Navigation.registerComponent(
+  "Kidsmap.AddPost",
+  () => AddPost,
+  store,
+  Provider
+)
 
 export default () => Navigation.startSingleScreenApp({
   screen: {
