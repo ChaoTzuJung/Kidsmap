@@ -5,7 +5,7 @@ import Reducers from './reducers'
 let composeEnhancers = compose;
 
 if (__DEV__) {
-    composeEnhancers = window.__REDUX_.DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+    composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
 }
 
 const configureStore = () => {
