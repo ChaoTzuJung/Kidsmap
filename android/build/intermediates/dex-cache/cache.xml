@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/Kidsmap/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/pre-dexed/debug/Kidsmap-react-native-vector-icons-unspecified_7ef7bcdaefce740a0915b3987b5679d1c426025c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/alan2305/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
