@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Animated, Easing } from 'react-native';
 class loginPanel extends Component {
     render() {
         return (
-            <Text>Text</Text>
+            <Text>.</Text>
         );
     }
 }

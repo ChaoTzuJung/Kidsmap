@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import LoadTabs from '../Tabs';
+//import LoadTabs from '../Tabs';
 import Logo from './logo';
 import LoginPanel from './loginPanel';
 import { getOrientation, setOrientationListener, removeOrientationListener } from '../../utils/misc';
@@ -22,6 +22,10 @@ class Login extends Component {
         })
     }
 
+    showLogin = () => {
+        alert('Done')
+    }
+
     componentWillMount() {
         removeOrientationListener()
     }
@@ -30,6 +34,7 @@ class Login extends Component {
         return (
             <View style={styles.container}>
                 <Logo
+                    showLogin={this.showLogin}
                     orientation={this.state.orientation}
                 />
                 <LoginPanel
