@@ -1,17 +1,39 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import LoadTabs from '../Tabs';
+import Logo from './logo';
+import LoginPanel from './loginPanel';
+import { getOrientation, setOrientationListener, removeOrientationListener } from '../../utils/misc';
+
 
 class Login extends Component {
+    constructor() {
+        super()
+        this.state = {
+            orientation: getOrientation(500)
+        }
+        //這韓式參數是一個callback
+        setOrientationListener(this.changeOrientation)
+    }
+
+    changeOrientation = () => {
+        this.setState({
+            orientation: getOrientation(500)
+        })
+    }
+
+    componentWillMount() {
+        removeOrientationListener()
+    }
+
     render() {
         return (
             <View style={styles.container}>
-                <Text>Login</Text>
-                <Button
-                    title="go to home"
-                    onPress={() => {
-                        LoadTabs();
-                    }}
+                <Logo
+                    orientation={this.state.orientation}
+                />
+                <LoginPanel
+                    orientation={this.state.orientation}
                 />
             </View>
         );

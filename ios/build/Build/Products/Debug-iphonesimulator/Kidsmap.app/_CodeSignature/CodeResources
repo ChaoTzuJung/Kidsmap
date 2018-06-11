@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		rzLblmhhHQpVbyDs/m5DvxFV6S8=
+		17jmrrO6oM9zcC3O8ntwG5X4rK4=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h95iZnZoxa5oDwYINSp4R+jNdB8=
+		A+FMBJG9C0uCn8EKCHj5VbuNTEA=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -147,7 +147,7 @@
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/KidsmapTests</key>
 		<data>
-		ReH6L3rWt3r0ZVzYdTEX9smciMo=
+		MYyaWoXnVsCFRBUMKnwVr+/3aFw=
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -240,11 +240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rzLblmhhHQpVbyDs/m5DvxFV6S8=
+			17jmrrO6oM9zcC3O8ntwG5X4rK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hp0W77OCxZZT+KfnvqSxVz//IudJaCK4W1TXu2a1dXc=
+			4x/BLSDUZq1/VY0zwm9Yz6fGPyNiBwcp8GyT91hhTz0=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -594,11 +594,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ReH6L3rWt3r0ZVzYdTEX9smciMo=
+			MYyaWoXnVsCFRBUMKnwVr+/3aFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			vz3Jj8k9a+dh5rR/lhTi8qMOZgLRh5JKxmsIpfpvRBs=
+			xNQUGRZPMu46OK/kkVpKqZhhhjnCgWAfIeTFvqcf6nU=
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
