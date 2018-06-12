@@ -129,6 +129,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/Kidsmap/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2dc548cfd5edba58b8639fb9bd160fdb374115b6">
+        <dex dex="/Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/pre-dexed/debug/Kidsmap-react-native-linear-gradient-unspecified_d73bddcbfd6b6471ff68c91783552f92306d2264.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/alan2305/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
