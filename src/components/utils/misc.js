@@ -1,4 +1,4 @@
-import { Dimensions } from 'react-native';
+import { Dimensions, Platform } from 'react-native';
 
 // portrait 直向螢幕 ＆ landscape 橫向螢幕
 export const getOrientation = (value) => {
@@ -11,4 +11,12 @@ export const setOrientationListener = (cb) => {
 
 export const removeOrientationListener = () => {
     return Dimensions.removeEventListener("change")
+}
+
+export const getPlatform = () => {
+    if (Platform.OS === 'ios') {
+        return "ios"
+    } else {
+        return "android"
+    }
 }

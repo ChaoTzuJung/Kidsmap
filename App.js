@@ -33,7 +33,7 @@ export default () => Navigation.startSingleScreenApp({
   screen: {
     screen: "Kidsmap.Login",
     title: "Login",
-    navigatiorStyle: {
+    navigatorStyle: {
       navBarHidden: true
     }
   }

@@ -21,7 +21,7 @@ class logo extends Component {
                 easing: Easing.easeOutCubbic
             })
         ]).start(() => {
-            alert('Done')
+            this.props.showLogin();
         })
     };
 
@@ -31,8 +31,8 @@ class logo extends Component {
         return (
             <View>
                 <View style={
-                    this.props.orientation === "protrait"
-                        ? styles.logoStylesPortait
+                    this.props.orientation === "portrait"
+                        ? styles.logoStylesPortrait
                         : styles.logoStylesLandscope
                 }>
                     <Animated.View style={{
@@ -43,12 +43,12 @@ class logo extends Component {
                         })
 
                     }}>
-                        <Text style={styles.sell}>Kids</Text>
+                        <Text style={styles.kids}>Kids</Text>
                     </Animated.View>
                     <Animated.View style={{
                         opacity: this.state.mapAnim,
                     }}>
-                        <Text style={styles.it}>map</Text>
+                        <Text style={styles.map}>map</Text>
                     </Animated.View>
                 </View>
             </View>
@@ -57,27 +57,31 @@ class logo extends Component {
 }
 
 const styles = StyleSheet.create({
-    logoStylesPortait: {
+    logoStylesPortrait: {
         marginTop: 50,
         flex: 1,
         flexDirection: 'row',
-        maxHeight: 100
+        maxHeight: 100,
+        justifyContent: 'center',
+        alignItems: 'center',
     },
     logoStylesLandscope: {
-        marginTop: 20,
+        marginTop: 10,
         flex: 1,
         flexDirection: 'row',
-        maxHeight: 50
+        maxHeight: 100,
+        justifyContent: 'center',
+        alignItems: 'center'
     },
-    sell: {
-        fontSize: 40,
+    kids: {
+        fontSize: 48,
         fontFamily: 'ChalkboardSE-Regular',
-        color: 'rgb(0,166,231)'
+        color: '#FFFFFF',
     },
-    it: {
-        fontSize: 40,
+    map: {
+        fontSize: 48,
         fontFamily: 'ChalkboardSE-Regular',
-        color: 'rgb(255,227,127)'
+        color: '#FFE371'
     }
 
 })

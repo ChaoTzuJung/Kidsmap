@@ -81,6 +81,7 @@ MERGED from [Kidsmap:react-native-navigation:unspecified] /Users/alan2305/React-
 		ADDED from /Users/alan2305/React-Native/Kidsmap/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /Users/alan2305/React-Native/Kidsmap/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Kidsmap:react-native-linear-gradient:unspecified] /Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/Kidsmap/react-native-linear-gradient/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [Kidsmap:react-native-navigation:unspecified] /Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/Kidsmap/react-native-navigation/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.1] /Users/alan2305/React-Native/Kidsmap/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:21:5-23:62

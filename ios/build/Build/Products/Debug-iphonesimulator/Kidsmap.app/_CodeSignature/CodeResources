@@ -4,9 +4,57 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<data>
+		uw9cAcdbkdt3XpuVjd1cfZXwiOc=
+		</data>
+		<key>AppIcon20x20@3x.png</key>
+		<data>
+		rhGSzYNv1bku+v9E3NV0+xNh3ag=
+		</data>
+		<key>AppIcon29x29@2x.png</key>
+		<data>
+		ayK7WzuEivNXbgU4tLPgDpspidc=
+		</data>
+		<key>AppIcon29x29@3x.png</key>
+		<data>
+		H8dAmFZALM+UMM+zPSJKt/s77mI=
+		</data>
+		<key>AppIcon40x40@2x.png</key>
+		<data>
+		AkW0PrTbct37xxI+X1kVdVGCsGA=
+		</data>
+		<key>AppIcon40x40@3x.png</key>
+		<data>
+		mlNP030CcLB4wFJNqKqSCm7lHqE=
+		</data>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		mlNP030CcLB4wFJNqKqSCm7lHqE=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		PursxcQg9fNy5/E0NiRBw58N6jM=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		DiOexgeOcTYwjzvo5a38+fKCZCc=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		rzLblmhhHQpVbyDs/m5DvxFV6S8=
+		jvQxQRqw8TsKzU4dHa0m9QCL2Ts=
+		</data>
+		<key>ChalkboardSE-Bold.ttf</key>
+		<data>
+		WkDQlJnlkQiXzV1hhA5/tuZJaww=
+		</data>
+		<key>ChalkboardSE-Light.ttf</key>
+		<data>
+		TQ9rZmO0weG0e811BjCiLiFjm3k=
+		</data>
+		<key>ChalkboardSE-Regular.ttf</key>
+		<data>
+		/fDhIkk7ZtnPTParPzwrVT/SjUc=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -30,31 +78,31 @@
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
-		Tvuq/w6S5/l+mcuMpS91/YjZ2PU=
+		8CN5cCzwKl0+7ieNPMN/SawZQA8=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<data>
-		6cPENvjjcXfDfBToJJ1118da8zc=
+		Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0fLvEeGLEThn4UBToFYXic4rqjA=
+		UU+vWjYvpE8lKAxV1lE2tUbIZA0=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<data>
-		W8UHQlJOUHUdjrnh0RUqh9qxkzY=
+		znuKt4UiTOJWwzrlgwaYX94o/a4=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		/6b73ybjbzwjPUHccodzeLJKGpQ=
+		uPxPInP5h9+ERgCm8NCXpuuMEmg=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		3NizfJMeU0sJP08q8Qi7wX/AyvI=
+		aHoR6mqqp0XWLqiw49+MRuFNQLk=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+mvvcw5UT9t0SkNxKWk0dLOay+4=
+		2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -67,15 +115,51 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		qhk6hXDyQp/YYzEpKIxg0bW3tlk=
+		DmGu9k7yBOLSfwtyNbn3zYir630=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h95iZnZoxa5oDwYINSp4R+jNdB8=
+		eHPs+C133DA9FdThKfQyyXbi87I=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
 		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+		</data>
+		<key>LaunchImage-1-1100-Landscape-2436h@3x.png</key>
+		<data>
+		K4LUYkOX3Du5gL9CYGWOapp8dMk=
+		</data>
+		<key>LaunchImage-1-1100-Portrait-2436h@3x.png</key>
+		<data>
+		hSKhXb80dmS8FekPZu9oKhh6Y0Q=
+		</data>
+		<key>LaunchImage-1-568h@2x.png</key>
+		<data>
+		6aec8VqvCMAH8ju+uq8mIIAkQe8=
+		</data>
+		<key>LaunchImage-1-700-568h@2x.png</key>
+		<data>
+		6aec8VqvCMAH8ju+uq8mIIAkQe8=
+		</data>
+		<key>LaunchImage-1-700@2x.png</key>
+		<data>
+		47hxWRiU5+iQTzGKUIIpLQcYQkA=
+		</data>
+		<key>LaunchImage-1-800-667h@2x.png</key>
+		<data>
+		CFnYxfx+RaWNwckfRFLSduDEBBk=
+		</data>
+		<key>LaunchImage-1-800-Landscape-736h@3x.png</key>
+		<data>
+		Oaf9MCApHqyzKyrj77Rw9u2bBQM=
+		</data>
+		<key>LaunchImage-1-800-Portrait-736h@3x.png</key>
+		<data>
+		kuk/UVQm9GeDqQQkmG9c2Yf4v0k=
+		</data>
+		<key>LaunchImage-1.png</key>
+		<data>
+		Eoq7s3MI1Nh14UWKMVEHFGb5Mc0=
 		</data>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
 		<data>
@@ -85,13 +169,17 @@
 		<data>
 		B9wIj5i+gJMRPZRoGBzKj/mGOko=
 		</data>
+		<key>LaunchImage-1@2x.png</key>
+		<data>
+		47hxWRiU5+iQTzGKUIIpLQcYQkA=
+		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
 		KCGfECGSl1OeGWr37BRMwvU7Y5s=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
-		KCGfECGSl1OeGWr37BRMwvU7Y5s=
+		jUzAVDZErJq8r4xRQMYF5Kc4BgE=
 		</data>
 		<key>LaunchImage-700@2x.png</key>
 		<data>
@@ -139,19 +227,19 @@
 		</data>
 		<key>PlugIns/KidsmapTests.xctest.dSYM/Contents/Resources/DWARF/KidsmapTests</key>
 		<data>
-		tRr2q5E/TjoLmz4M7ACNPjRiYew=
+		PIWRs5ZeRtOne8AbYqZaqZM0VLU=
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/Info.plist</key>
 		<data>
-		fCE1JPsbYY6xfCK6DwXOIqxXJ5M=
+		BZDARuF+tqaRcgO5ZX/RlDs6oUQ=
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/KidsmapTests</key>
 		<data>
-		ReH6L3rWt3r0ZVzYdTEX9smciMo=
+		QbgXopFBh5kx+KdjlbyjSm06e44=
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		STpBM5JYU8k0skGFRgV4bbr/Q1Y=
+		RgwupD+WxCS85agnNhc+Muo+saA=
 		</data>
 		<key>Roboto-Black.ttf</key>
 		<data>
@@ -236,15 +324,147 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uw9cAcdbkdt3XpuVjd1cfZXwiOc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ezfcSkdTHCJK19rf+xxWWW4g1ilrPxz1fxXZz/53Il4=
+			</data>
+		</dict>
+		<key>AppIcon20x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rhGSzYNv1bku+v9E3NV0+xNh3ag=
+			</data>
+			<key>hash2</key>
+			<data>
+			oaTlUa5DYHEykzJPPIvk2nd56lJRLX4Wu5TycaqHBOk=
+			</data>
+		</dict>
+		<key>AppIcon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ayK7WzuEivNXbgU4tLPgDpspidc=
+			</data>
+			<key>hash2</key>
+			<data>
+			h1zf1h7vPvNr6bkKTe1ZHRVZWFMEAEW5kjmQPvmWPCo=
+			</data>
+		</dict>
+		<key>AppIcon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H8dAmFZALM+UMM+zPSJKt/s77mI=
+			</data>
+			<key>hash2</key>
+			<data>
+			HsxGQzHw/FdvbQmXYZupp7NKXog1c6Ar+8DuJ+htDvE=
+			</data>
+		</dict>
+		<key>AppIcon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AkW0PrTbct37xxI+X1kVdVGCsGA=
+			</data>
+			<key>hash2</key>
+			<data>
+			k9he1SJCao46C3VqbTYRKWmiskA9ikVmORIwDdHYGLc=
+			</data>
+		</dict>
+		<key>AppIcon40x40@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mlNP030CcLB4wFJNqKqSCm7lHqE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vzWQYX6MjJpODHMJV0G8YxYxEZvZMTcmWY/BoxXGWsI=
+			</data>
+		</dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mlNP030CcLB4wFJNqKqSCm7lHqE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vzWQYX6MjJpODHMJV0G8YxYxEZvZMTcmWY/BoxXGWsI=
+			</data>
+		</dict>
+		<key>AppIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PursxcQg9fNy5/E0NiRBw58N6jM=
+			</data>
+			<key>hash2</key>
+			<data>
+			na5BU55HW9cRvl8WQnvax5KqG2gi5JSXQxL6HT055so=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DiOexgeOcTYwjzvo5a38+fKCZCc=
+			</data>
+			<key>hash2</key>
+			<data>
+			CZBBDIotuCRtAle6Ltg8gJaJFjaWIB7DmSULb9cFsbE=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rzLblmhhHQpVbyDs/m5DvxFV6S8=
+			jvQxQRqw8TsKzU4dHa0m9QCL2Ts=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hp0W77OCxZZT+KfnvqSxVz//IudJaCK4W1TXu2a1dXc=
+			1wP5S7wPQkxYLJv59FVEPzlDfhB6uz5aoUOwwN/PvU0=
+			</data>
+		</dict>
+		<key>ChalkboardSE-Bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WkDQlJnlkQiXzV1hhA5/tuZJaww=
+			</data>
+			<key>hash2</key>
+			<data>
+			K7cTlmxRqaMtRXQA3eDT547pq9bPGbMIhj6uqs2fW18=
+			</data>
+		</dict>
+		<key>ChalkboardSE-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TQ9rZmO0weG0e811BjCiLiFjm3k=
+			</data>
+			<key>hash2</key>
+			<data>
+			15zipGVTxo3/i3RyZmgif3okfRl4M5/REQ/0ArjB3GM=
+			</data>
+		</dict>
+		<key>ChalkboardSE-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/fDhIkk7ZtnPTParPzwrVT/SjUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ggQnC1F7Y73ND6xJagK9/QTRWzM4Lx3OFCpUcVDrkZM=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -306,77 +526,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tvuq/w6S5/l+mcuMpS91/YjZ2PU=
+			8CN5cCzwKl0+7ieNPMN/SawZQA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RFPwuGunUCg671vkap3nZ2ykF77o4s2j7zDAn2XbOco=
+			/R1Uy1RZ7ljX2V8ZHMhD4g8ieWHns9sj34YDK2McvfY=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6cPENvjjcXfDfBToJJ1118da8zc=
+			Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
 			</data>
 			<key>hash2</key>
 			<data>
-			LLPF72z23yVBbXYfe0hb4bJQTJFSRVDBk5OyUDe3bos=
+			IvG0kD54lYvEZzfjVmXtrtBdydTUy1uFZkZXUddfTzY=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0fLvEeGLEThn4UBToFYXic4rqjA=
+			UU+vWjYvpE8lKAxV1lE2tUbIZA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jru3xyO+9Pka43kPgZquwkzmdyGftteE5+HGSD6YRdY=
+			Ja3vToXIdN/BmsoAh4U4btDVl5lKbzndKf99CyxV6K4=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W8UHQlJOUHUdjrnh0RUqh9qxkzY=
+			znuKt4UiTOJWwzrlgwaYX94o/a4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FPdP4nFPVQpcTGvPqKiPySck4vZwcjNstcWB9HweZYA=
+			napzzKlhgK6Qoqz8QO+9TkyuIsW5V+s6GmClALe2lT4=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/6b73ybjbzwjPUHccodzeLJKGpQ=
+			uPxPInP5h9+ERgCm8NCXpuuMEmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uGNx3Hih75LqpmMmnSTa4Vvqk69BmdnsWtAABkb2Ow=
+			N77/gSJpnPT4ryPaR4IJ55aYyiiMCKjlq79qrCmGxU8=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3NizfJMeU0sJP08q8Qi7wX/AyvI=
+			aHoR6mqqp0XWLqiw49+MRuFNQLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			XSjXtfthzzaopwW6oSnMLrhafOkn9KkU9ZbZ/aIqCok=
+			unqlGEn5cq6B36PWWq/mAoeeub7L9yZ3vWK7mP9EscQ=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+mvvcw5UT9t0SkNxKWk0dLOay+4=
+			2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LOX9OCUqqITwfF5IEPUIrj9+m8hK39QCJl4WbXY272o=
+			OXS9XX1oATlfFoPHZbc7OGt7HUXfXzNrCz28TkkBo/g=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -396,11 +616,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qhk6hXDyQp/YYzEpKIxg0bW3tlk=
+			DmGu9k7yBOLSfwtyNbn3zYir630=
 			</data>
 			<key>hash2</key>
 			<data>
-			L4ikvo5qrwsx21+syxZrwgRwrNbc3av4ZtEyZl/yF78=
+			2hnwNPgdaewT28DbTqe0Gpaccdc2akBF8IjnGtISc58=
 			</data>
 		</dict>
 		<key>Ionicons.ttf</key>
@@ -412,6 +632,105 @@
 			<key>hash2</key>
 			<data>
 			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
+		<key>LaunchImage-1-1100-Landscape-2436h@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K4LUYkOX3Du5gL9CYGWOapp8dMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			NF5lRWisMqtC+el6BX19Bp4aqgByctG3YGOTycePAPM=
+			</data>
+		</dict>
+		<key>LaunchImage-1-1100-Portrait-2436h@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hSKhXb80dmS8FekPZu9oKhh6Y0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			gYK8ToBW5nvIAZxURvDRYIWx3w97cKyafDGfhgRaQO0=
+			</data>
+		</dict>
+		<key>LaunchImage-1-568h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6aec8VqvCMAH8ju+uq8mIIAkQe8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dd8HJlzgWnjQ/eIIPI1fMaPunmAIB7lJj3bn5CWEeNk=
+			</data>
+		</dict>
+		<key>LaunchImage-1-700-568h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6aec8VqvCMAH8ju+uq8mIIAkQe8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dd8HJlzgWnjQ/eIIPI1fMaPunmAIB7lJj3bn5CWEeNk=
+			</data>
+		</dict>
+		<key>LaunchImage-1-700@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			47hxWRiU5+iQTzGKUIIpLQcYQkA=
+			</data>
+			<key>hash2</key>
+			<data>
+			FEcUTP7UQ5b6kJkWPLaMD53RaBWT/4iXmng3YphSu6E=
+			</data>
+		</dict>
+		<key>LaunchImage-1-800-667h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CFnYxfx+RaWNwckfRFLSduDEBBk=
+			</data>
+			<key>hash2</key>
+			<data>
+			efNhMSWakYptg6faInYJjGoPB9vz1G2dmOwOx5ZBlEg=
+			</data>
+		</dict>
+		<key>LaunchImage-1-800-Landscape-736h@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oaf9MCApHqyzKyrj77Rw9u2bBQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			U0t+lF3rpa8V8C4vUl3Aj/6B0bz1QoiVaWpGdo9Q4F0=
+			</data>
+		</dict>
+		<key>LaunchImage-1-800-Portrait-736h@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kuk/UVQm9GeDqQQkmG9c2Yf4v0k=
+			</data>
+			<key>hash2</key>
+			<data>
+			YkA5S/A225RXpaEBCbs0wDxEah3QgNDo7imYkuSzo8A=
+			</data>
+		</dict>
+		<key>LaunchImage-1.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Eoq7s3MI1Nh14UWKMVEHFGb5Mc0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ua6pCRU3HSnhjMhScNYowUVtgO538XcE8zH00/ce6+o=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -436,6 +755,17 @@
 			C4oIOf3o+ry5zwggWeFg7fN/PEat/QD9EJ8x6eUp8gQ=
 			</data>
 		</dict>
+		<key>LaunchImage-1@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			47hxWRiU5+iQTzGKUIIpLQcYQkA=
+			</data>
+			<key>hash2</key>
+			<data>
+			FEcUTP7UQ5b6kJkWPLaMD53RaBWT/4iXmng3YphSu6E=
+			</data>
+		</dict>
 		<key>LaunchImage-568h@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -451,11 +781,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KCGfECGSl1OeGWr37BRMwvU7Y5s=
+			jUzAVDZErJq8r4xRQMYF5Kc4BgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			oTM3hXuiLv04gvK8fWzn46DX2JWXDd23GqEWcd2mvE8=
+			zk4M8Nt4RUdrZyscD2Fls3DuhrSZpwnGFwXIWTdHmrw=
 			</data>
 		</dict>
 		<key>LaunchImage-700@2x.png</key>
@@ -572,44 +902,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tRr2q5E/TjoLmz4M7ACNPjRiYew=
+			PIWRs5ZeRtOne8AbYqZaqZM0VLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			3h58ElzLtVjk5WjFWd1e4u7+2aUIVtjf45+uCVmQHkM=
+			dwszH2xoPTCeX2f6q6m64094Q64jYOdN0jXrC+M1f0U=
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fCE1JPsbYY6xfCK6DwXOIqxXJ5M=
+			BZDARuF+tqaRcgO5ZX/RlDs6oUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/3+sy6Gh8l90WwvVH6cWh8VwONvYmbaxleK8GMniX1U=
+			JeMneu7IWbBaCOACptowQoBVTNb5nd5ai/F2vASb/x0=
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/KidsmapTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ReH6L3rWt3r0ZVzYdTEX9smciMo=
+			QbgXopFBh5kx+KdjlbyjSm06e44=
 			</data>
 			<key>hash2</key>
 			<data>
-			vz3Jj8k9a+dh5rR/lhTi8qMOZgLRh5JKxmsIpfpvRBs=
+			ZB+bSo6TQg6xoMQzuPe7FU7eR/9MLGxO+d/WA1mbk6s=
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			STpBM5JYU8k0skGFRgV4bbr/Q1Y=
+			RgwupD+WxCS85agnNhc+Muo+saA=
 			</data>
 			<key>hash2</key>
 			<data>
-			PYbMg5UQrQW6RdlNZ0hOO6mQIPbcycJLmFvhXvJIWjI=
+			a9TwMgRm0JMuVvO/eyYeh/Mg9QA9p9Qm3EFHJl3CQ7Q=
 			</data>
 		</dict>
 		<key>Roboto-Black.ttf</key>
