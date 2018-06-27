@@ -4,13 +4,19 @@ import { StyleSheet, Text, View, Button, ScrollView } from 'react-native';
 import Logo from './logo';
 import LoginPanel from './loginPanel';
 import LinearGradient from 'react-native-linear-gradient';
-import { getOrientation, setOrientationListener, removeOrientationListener } from '../../utils/misc';
+import {
+    getOrientation,
+    setOrientationListener,
+    removeOrientationListener,
+    getPlatform
+} from '../../utils/misc';
 
 
 class Login extends Component {
     constructor() {
         super()
         this.state = {
+            platform: getPlatform(),
             orientation: getOrientation(500),
             //當true時代表動畫已經結束
             logoAnimation: false
@@ -47,6 +53,7 @@ class Login extends Component {
                         <LoginPanel
                             orientation={this.state.orientation}
                             show={this.state.logoAnimation}
+                            platform={this.state.platform}
                         />
                     </View>
                 </ScrollView>

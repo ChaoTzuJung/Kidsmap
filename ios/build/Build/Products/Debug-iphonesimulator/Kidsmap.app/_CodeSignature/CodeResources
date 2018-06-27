@@ -38,11 +38,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		mPqJSn4LjepJO6HXe78iGHg1CLw=
+		Tq1oJ+xxvyqhBhjZVPhlaQ5zkdE=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		ruRWYlNfdkTeNnn7ao4ISJrkDF8=
+		jvQxQRqw8TsKzU4dHa0m9QCL2Ts=
 		</data>
 		<key>ChalkboardSE-Bold.ttf</key>
 		<data>
@@ -119,7 +119,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uLMAeWXbg3fCn+A7vATTXRc6rjI=
+		eHPs+C133DA9FdThKfQyyXbi87I=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -235,7 +235,7 @@
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/KidsmapTests</key>
 		<data>
-		MYyaWoXnVsCFRBUMKnwVr+/3aFw=
+		1SYdDqTRiogFHdrvvO2B87eEf0U=
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -416,22 +416,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mPqJSn4LjepJO6HXe78iGHg1CLw=
+			Tq1oJ+xxvyqhBhjZVPhlaQ5zkdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UQqeIJWoXmxXiDFgbcKa67/+mrSnsVKeP3qwjh3OWbY=
+			VU8p3S0/izHyvaNkfBdxoF6yFUsrMwxVXzO315RfSrs=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ruRWYlNfdkTeNnn7ao4ISJrkDF8=
+			jvQxQRqw8TsKzU4dHa0m9QCL2Ts=
 			</data>
 			<key>hash2</key>
 			<data>
-			6haZzq1vqj/Rk3XHBUSjkCF1AGMVcI0vx5F53wQW/8I=
+			1wP5S7wPQkxYLJv59FVEPzlDfhB6uz5aoUOwwN/PvU0=
 			</data>
 		</dict>
 		<key>ChalkboardSE-Bold.ttf</key>
@@ -924,11 +924,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MYyaWoXnVsCFRBUMKnwVr+/3aFw=
+			1SYdDqTRiogFHdrvvO2B87eEf0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			xNQUGRZPMu46OK/kkVpKqZhhhjnCgWAfIeTFvqcf6nU=
+			IENzj+UKtP/iwrOMogFlYSNctCMUSuoX0rqeA/WNhaU=
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>

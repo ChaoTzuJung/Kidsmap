@@ -31,7 +31,12 @@ class loginPanel extends Component {
             )
         }
     }
-
+    _handleGoogleLogin = () => {
+        alert('Google Login')
+    }
+    _handleFacebookLogin = () => {
+        alert('Facebook Login')
+    }
     render() {
         return (
             <View style={styles.container}>
@@ -86,7 +91,9 @@ class loginPanel extends Component {
                             : styles.FormFieldLandscope
                     }>
                         <Text style={styles.TextStyle}>或用您的用戶名登入</Text>
-                        <LoginForm />
+                        <LoginForm
+                            platform={this.props.platform}
+                        />
                     </View>
                 </Animated.View>
             </View>
@@ -100,7 +107,7 @@ const styles = StyleSheet.create({
         letterSpacing: 1.3,
         textAlign: 'left',
         fontFamily: 'PingFangSC-Semibold',
-        color: '#fff',
+        color: '#555555',
         marginLeft: 10
     },
     ThirdPartyLoginTextStyle: {
@@ -121,13 +128,15 @@ const styles = StyleSheet.create({
         paddingLeft: 20,
         paddingRight: 20,
         backgroundColor: '#fff',
-        borderColor: 'rgb(193,193,193)',
         borderRadius: 12,
-        borderWidth: 1.6,
         marginTop: 15,
         marginBottom: 15,
         marginLeft: 8,
-        marginRight: 8
+        marginRight: 8,
+        shadowColor: '#00000080',
+        shadowOffset: { width: 0, height: 2, },
+        shadowOpacity: 1.0,
+        shadowRadius: 2,
     },
     ThirdPartyPortrait: {
         display: 'flex',
