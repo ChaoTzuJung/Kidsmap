@@ -38,7 +38,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
+<<<<<<< HEAD
 		DiOexgeOcTYwjzvo5a38+fKCZCc=
+=======
+		Uco8hi0fxEXRhB1lLfOWDsmpIkY=
+>>>>>>> feature/form
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
@@ -235,7 +239,11 @@
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/KidsmapTests</key>
 		<data>
+<<<<<<< HEAD
 		zB56RGLzcjEbdqwgNmMFw9ZuVJ4=
+=======
+		QbgXopFBh5kx+KdjlbyjSm06e44=
+>>>>>>> feature/form
 		</data>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -416,11 +424,19 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			DiOexgeOcTYwjzvo5a38+fKCZCc=
 			</data>
 			<key>hash2</key>
 			<data>
 			CZBBDIotuCRtAle6Ltg8gJaJFjaWIB7DmSULb9cFsbE=
+=======
+			Uco8hi0fxEXRhB1lLfOWDsmpIkY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FscTohFeeFvd6UTdIfl8t0nGkAMTwGnoyJavzNF5BMw=
+>>>>>>> feature/form
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
@@ -924,11 +940,19 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			zB56RGLzcjEbdqwgNmMFw9ZuVJ4=
 			</data>
 			<key>hash2</key>
 			<data>
 			bnwr+IEeB/Ko+SWW6p7Aq4Web07kAEIlxWyAGZRObKo=
+=======
+			QbgXopFBh5kx+KdjlbyjSm06e44=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZB+bSo6TQg6xoMQzuPe7FU7eR/9MLGxO+d/WA1mbk6s=
+>>>>>>> feature/form
 			</data>
 		</dict>
 		<key>PlugIns/KidsmapTests.xctest/_CodeSignature/CodeResources</key>

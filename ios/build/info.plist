@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
 	<date>2018-06-27T16:07:59Z</date>
+=======
+	<date>2018-06-27T09:24:25Z</date>
+>>>>>>> feature/form
 	<key>WorkspacePath</key>
 	<string>/Users/alan2305/React-Native/Kidsmap/ios/Kidsmap.xcodeproj</string>
 </dict>
